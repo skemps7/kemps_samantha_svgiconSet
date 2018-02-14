@@ -9,7 +9,7 @@ main
   display:inline-block;
 }
 
-img
+.container img
 {
   display: block;
   width: 100%;
